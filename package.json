@@ -1,0 +1,24 @@
+{
+  "name": "npmexercises",
+  "version": "1.0.0",
+  "description": "learning NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write prettier.js"
+  },
+  "author": "merry mac",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cat-facts": "^1.0.2",
+    "download-file": "^0.1.5",
+    "lodash": "^4.17.11",
+    "nodemailer": "^4.7.0",
+    "pdfkit": "^0.8.3",
+    "prettier": "^1.15.3",
+    "robotjs": "^0.5.1",
+    "speed-test": "^2.0.0",
+    "wallpaper": "^4.1.0"
+  }
+}
